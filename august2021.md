@@ -1,4 +1,4 @@
-### August 03, 20221
+### August 06, 20221
 
 1. How does the internet actually work? This in-depth course will teach you Network Engineering concepts and show you how ISPs, backbones, and other infrastructure work. (2 hour YouTube course): https://www.freecodecamp.org/news/how-does-the-internet-work/
 
