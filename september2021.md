@@ -31,3 +31,19 @@ This September 30th will be International Translation Day. But the freeCodeCamp 
 And if you want to support our nonprofit and our mission, you can make a difference here: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
 
 Quote of the Week: “Most technologies tend to automate workers on the periphery who are doing menial tasks. But blockchains automate away the center. Instead of putting taxi drivers out of a job, blockchain puts Uber out of a job, and lets the taxi drivers work with the customer directly.” — Vitalik Buterin, Creator of Ethereum
+
+### September 18, 2021
+
+1. Linux is the most widely-used operating system in the world. It powers most web servers. And since Android was built on top of Linux, it runs on most mobile devices. If you're interested in a career in software development or cyber security, you will want to learn Linux and its command line tools. This course will teach you the basics of Linux servers, networking, and security. (5 hour YouTube course): https://www.freecodecamp.org/news/linux-essentials-for-hackers/
+
+2. Gatsby is an open source front-end development framework. It helps you build fast, reliable static websites using React and other JavaScript tools. These sites generally do not require a traditional back end. Instead they use APIs and CDNs to deliver content to browsers or mobile apps. This in-depth course will show you how to use the latest version of Gatsby to leverage its power. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-gatsby-version-3/
+
+3. You may have heard the term "asynchronous programming" before. But what does it mean? This tutorial will show you how to write both synchronous and asynchronous JavaScript code, and explain when each of these approaches can be useful. Along the way, you'll learn the key programming concepts like Call Stacks, Promises, and Event Loops. (20 minute read): https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
+
+4. If you use the VS Code editor, you should try freeCodeCamp's new "Command Line Chic" dark mode template. It will make you feel like an elite developer in no time. We designed it from the ground up to look cool and also be easy on your eyes during those late night / early morning coding sessions. (1 minute read): https://www.freecodecamp.org/news/vs-code-dark-mode-theme/
+
+5. If you're actively contributing to open source, you may have heard of the GitHub Star program. If you can manage to get nominated, GitHub Star status can be a good way to draw attention to your open source activity and raise your profile within the developer community. This discussion features tips from 5 people who have recently earned GitHub Star status. (30 minute watch): https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/
+
+We're working on several new interactive coding projects and comprehensive certifications that you and your family can use to expand your skills. If you are fortunate enough to have steady income, you can support our mission directly by making a tax-deductible donation to our nonprofit: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: “One person's paranoia is another person's engineering redundancy.” — Marcus Ranum, Network Security Researcher
