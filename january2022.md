@@ -1,4 +1,4 @@
-### January 28, 2021
+### January 28, 2022
 
 1. This course will show you how to build your own video games using an open source JavaScript GameDev engine called GDevelop. You'll build a Mario Bros. platform game and an Asteroids space shooting game. You can publish your games to the web or to iPhone / Android. You don't need any previous programming experience. (1 hour YouTube course): https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/
 
@@ -14,8 +14,7 @@ Last week I mentioned that our nonprofit was getting close to reaching 8,000 mon
 
 Quote of the Week: “In the right context, a game is not just a vehicle for fun, but an exercise in self-determination and confidence.” — Sid Meier, game designer and creator of the Civilization game series
 
-
-### January 21, 2021
+### January 21, 2022
 
 1. freeCodeCamp just published an entire book on Arch Linux. If you want to get into the most customizable Linux distribution, this book will show you how to install it and season to taste. (free full-length handbook): https://www.freecodecamp.org/news/how-to-install-arch-linux/
 
@@ -31,8 +30,7 @@ Before the pandemic, our nonprofit was so close to hitting the 8,000 monthly don
 
 Quote of the Week: “Linux only became possible because 20 years of operating system research was carefully studied, analyzed, discussed, and thrown away.” — Ingo Molnar, Prolific Linux Contributor from Hungary
 
-
-### January 14, 2021
+### January 14, 2022
 
 1. React is a popular JavaScript front end development library. This course will teach you React for beginners. Learn about props, state, async functions, JSX, and more. Along the way, you'll build 8 real-world projects, and solve more than 140 interactive coding challenges. (12 hour YouTube course): https://www.freecodecamp.org/news/free-react-course-2022/
 
@@ -45,6 +43,5 @@ Quote of the Week: “Linux only became possible because 20 years of operating s
 5. How do file systems work? This in-depth article will give you a solid understanding. You'll learn about partitioning schemes, system firmware, booting, and the computer science concepts that underpin them. (45 minute read): https://www.freecodecamp.org/news/file-systems-architecture-explained/
 
 2022 is just getting started. If you want to hit the ground running, you should take my Become-a-Developer New Year's Resolution Challenge. So far more than 1,000 people have committed to the challenge, which will involve about 30 minutes of learning each day for the next 3 months. No pressure 🙂 https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/
-
 
 Quote of the Week: “There is no such thing as 'zero-config' software. It's just someone else's hard-coded settings.” — Jordan Walke, creator of React
