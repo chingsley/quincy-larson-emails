@@ -1,4 +1,5 @@
 ### February 25, 2021
+
 1. Flutter is a popular open-source toolkit for coding cross-platform apps. You can then run these apps on Android, iOS, Windows, and Mac. freeCodeCamp uses Flutter to build our own Android app, rather than Android's usual Java code. And I have a lot of friends working at big tech companies who develop using it, too. This in-depth course for beginners will show you how to build your own app and publish it. (37 hour YouTube course): https://www.freecodecamp.org/news/learn-flutter-full-course/
 
 2. If you've ever wanted to learn how to use Linux as your operating system, this course is for you. It will walk you through the Linux tool ecosystem and help you install it on a computer. You'll gain an understanding of Linux's file structure, package manager, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/
@@ -13,7 +14,8 @@ Also, I'm so grateful to say: this week our nonprofit finally crossed the 8,000 
 
 Quote of the Week: “When I am working on a problem, I never think about beauty. I think only of how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.” — Buckminister Fuller, Architect and Systems Theorist
 
-### February 18, 2021
+### February 18, 2022
+
 1. Learn C++ for beginners. This course will show you how to install the C++ programming language and start writing and running your code. You'll learn concepts like control flow, data handling, object oriented programming, pointers & references, polymorphism, and even some functional programming. (31 hour YouTube course): https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/
 
 2. How to rock the coding interview. This in-depth guide will teach you tips that helped one freeCodeCamp community member land multiple job offers from Google, Airbnb, and Dropbox. (40 minute read): https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
@@ -28,8 +30,7 @@ Our nonprofit is now up to 7,994 monthly supporters. We are so close to hitting 
 
 Quote of the Week: “C makes it easy to shoot yourself in the foot. C++ makes it harder. But when you do, it blows your whole leg off.” — Bjarne Stroustrup, Creator of C++
 
-
-### February 11, 2021
+### February 11, 2022
 
 1. A Design System can save you time when you code a website, and help the pages feel more consistent. This course is taught by the King of CSS, Kevin Powell. (And yes, if you google "king of CSS", Kevin will be the top result.) You'll learn a ton of advanced CSS and UI design concepts. (7 hour YouTube course): https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/
 
@@ -45,7 +46,7 @@ A big thanks to the 7,976 people who support freeCodeCamp each month through the
 
 Quote of the Week: “Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.” — Danny Thorpe, Software Engineer and major contributor to the Delphi programming language
 
-### February 04, 2021
+### February 04, 2022
 
 1. This course will teach you User Experience Design best practices. You'll learn the design thinking methodology of Stanford's famous d.school, and build prototypes in Figma. This is a beginner-level course and does not require any prior programming experience. (2 hour YouTube course): https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/
 
