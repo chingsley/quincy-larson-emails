@@ -1,3 +1,39 @@
+### December 24, 2021
+
+1. We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs.
+
+It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter eggs to discover, and multiple endings. And it's all open source.
+
+It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour "let's play" video with Ania Kubow and the game's developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/
+
+2. Also, we just published a comprehensive history of the internet, taught by a professor who has been at its forefront since the 1990s: University of Michigan legend Dr. Chuck. You'll learn about ARPANET & CERN, DNS, TCP/IP, network security, and more. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/
+
+3. This course taught by Ania Kubow will show you how to build your own Customer Relationship Management (CRM) system. You don't even need to know a lot about programming – you can use low-code tools to build out key features. (2 hour YouTube course): https://www.freecodecamp.org/news/build-a-crm/
+
+4. If you're new to the JavaScript ecosystem, one of its most powerful features is modules. In this guide, Madison Kanna will show you how ES Modules work, and how they can speed up your website building process. (8 minute read): https://www.freecodecamp.org/news/javascript-modules-beginners-guide/
+
+5. Linux and MacOS Unix have a convenient tool for securely transferring files from one computer to another. I use this often when I'm working with a remote Linux server. This tutorial by Zaira Hira will show you how to use both the SCP command and the popular network File Transfer Protocol (FTP) to move files. (8 minute read): https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/
+
+Well this is it. My last email of the year. Thank you for making time in your busy day to read these emails and learn from these 5 links I share each week. I'll be back in January with new adventures for you. I hope you and your family have a fun, insightful holiday season, and you are able to tackle the new year with renewed vigor. If you haven't donated to our nonprofit, it would be a big help to our mission, and you may be able to deduct it from your 2021 taxes. See you in 2022 🙂 https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: “We don't stop playing because we grow old. We grow old because we stop playing.” — George Bernard Shaw, Irish Playwright
+
+### December 18, 2021
+
+1. DevSecOps is where you start thinking about security early in the process of building your app or website. This DevOps and cybersecurity course by Beau Carnes will help you prevent vulnerabilities, threats, and exploits. (90 minute YouTube course): https://www.freecodecamp.org/news/what-is-devsecops/
+
+2. If you want to work with some emerging full-stack development tools, this course is a good place to start. You'll learn Svelte, Prisma, and Vercel, running on top of a sensible Postgres database. And you can code the entire app right in your browser using GitPod. (7 hour YouTube course): https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/
+
+3. Did you know you can run Linux on a Windows computer? In this tutorial, Yosra will show you how to use Windows Subsystem for Linux – also known as WSL – without needing to use a virtual machine or dual-boot your computer. (5 minute read): https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/
+
+4. Linked Lists are an efficient data structure used in high-performance programming. They often come up in developer job interview questions. This course will teach you how to sum, traverse, and reverse a linked list. (90 minute YouTube course): https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/
+
+5. 'Tis the season. This fun tutorial will teach you the basics of SVG images. You'll build several holiday-themed graphics. (20 minute read): https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/
+
+Next week will be my final email of the year. And I've saved the best for last. I have a big gift for you and the entire freeCodeCamp.org community. It is something I have never announced before, which we have been working on for several months. So look for it next week. In the meantime, if 2021 has been a good year for you financially, I encourage you to make a tax-deductible donation to our nonprofit and help support our mission: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: “Better to be despised for too anxious apprehensions than ruined by too confident security.” — Edmund Burke, Irish philosopher, in 1790
+
 ### December 11, 2021
 
 1. This course by computer science professor and entrepreneur Shad Sluiter will teach you business essentials for developers. You'll learn the basics of product development, agile project management, marketing, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/
@@ -20,18 +56,3 @@ We're putting every donation we receive to good use building these learning reso
 
 Quote of the Week: “Don't worry about people trying to steal your design work. Worry about the day that they stop.” — Jeffery Zeldman, Developer, Designer, and co-founder of the Web Standards Project
 
-### December 18, 2021
-
-1. DevSecOps is where you start thinking about security early in the process of building your app or website. This DevOps and cybersecurity course by Beau Carnes will help you prevent vulnerabilities, threats, and exploits. (90 minute YouTube course): https://www.freecodecamp.org/news/what-is-devsecops/
-
-2. If you want to work with some emerging full-stack development tools, this course is a good place to start. You'll learn Svelte, Prisma, and Vercel, running on top of a sensible Postgres database. And you can code the entire app right in your browser using GitPod. (7 hour YouTube course): https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/
-
-3. Did you know you can run Linux on a Windows computer? In this tutorial, Yosra will show you how to use Windows Subsystem for Linux – also known as WSL – without needing to use a virtual machine or dual-boot your computer. (5 minute read): https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/
-
-4. Linked Lists are an efficient data structure used in high-performance programming. They often come up in developer job interview questions. This course will teach you how to sum, traverse, and reverse a linked list. (90 minute YouTube course): https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/
-
-5. 'Tis the season. This fun tutorial will teach you the basics of SVG images. You'll build several holiday-themed graphics. (20 minute read): https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/
-
-Next week will be my final email of the year. And I've saved the best for last. I have a big gift for you and the entire freeCodeCamp.org community. It is something I have never announced before, which we have been working on for several months. So look for it next week. In the meantime, if 2021 has been a good year for you financially, I encourage you to make a tax-deductible donation to our nonprofit and help support our mission: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
-
-Quote of the Week: “Better to be despised for too anxious apprehensions than ruined by too confident security.” — Edmund Burke, Irish philosopher, in 1790
