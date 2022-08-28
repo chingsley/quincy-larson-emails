@@ -1,4 +1,21 @@
+### August 26, 2022
+
+1. freeCodeCamp just published an in-depth Front End Developer course, taught by a software engineer and freeCodeCamp alum. You'll learn HTML, CSS, DOM manipulation, and how to use your browser's DevTools. You'll also learn key JavaScript concepts, such as primitives, functions, loops, control flow logic, Regular Expressions, and more. This is a beginner course, and it's good review for intermediate developers as well. (21 hour YouTube course): https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/
+
+2. My friend Andrew Brown is a CTO and has an encyclopedic knowledge of Cloud Engineering. He's passed most of the AWS and Azure cloud certification exams. And this week, we released his latest course, which will help you pass the Microsoft Azure Developer Associate exam (AZ-204). Lots of people in the freeCodeCamp community have earned these certs to level-up their DevOps and Site Reliability Engineer careers. (13 hour YouTube course): https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/
+
+3. Markdown is a powerful way to write precise HTML-like documents. I use it every day. By knowing just a little bit of syntax, you can quickly type out a document using plain text. Then you can paste it into websites like GitHub, Stack Overflow, and freeCodeCamp, where it will expand into a Rich Text Document with headers, hyperlinks, and images. You can bookmark this Markdown cheat sheet, and refer to it the next time you want to practice your Markdown skills. (12 minute read): https://www.freecodecamp.org/news/markdown-cheatsheet/
+
+4. Advice from a Full Stack Developer who just finished his first year in tech. Germán talks about his non-traditional path into Argentina's software industry. He shares tips on how to pick a tech stack to specialize in, how to know when you're ready to start applying for roles, and how to cope with the stresses of the job. (50 minute read): https://www.freecodecamp.org/news/my-first-year-as-a-professional-developer-tips-for-getting-into-tech/
+
+5. Lua is a programming language commonly used for modifying video games, such as Roblox. But you can also use it to build entirely new games. This comprehensive course will teach you Lua fundamentals, and how to use the popular LÖVE 2D GameDev framework. You'll even code your own playable version of the 1979 Asteroids arcade game. (11 hour YouTube course): https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/
+
+A big thank you to the 8,264 kind folks who support our charity each month. freeCodeCamp now has 103 web servers running to serve more than a million daily visitors. If you are reading this and are in a position to support our mission, we would welcome your help: https://www.freecodecamp.org/donate
+
+Quote of the Week: “Some prefer backend, some prefer frontend, but I always prefer weekend.” — Dan (@khazifire), Front End Developer
+
 ### August 19, 2022
+
 1. Learn C Programming by reading the classic book by C's creators, Dennis Ritchie and Brian Kernighan. In this cover-to-cover read-along, University of Michigan professor Dr. Chuck will guide you through the book, adding his own commentary as a developer and computer scientist. Dr. Chuck has also prepared a number of coding exercises that you can work through to solidify your understanding of key C concepts. You'll learn Operators, Control Flow, Input/Output, and C data structures including Pointers. This is a deep dive into one of the most widely-used languages in the world, as it was first taught nearly 50 years ago. (10 hour YouTube course): https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/
 
 2. Stardew Valley is a popular farming video game based off of the Nintendo classic, Harvest Moon. And in this Python GameDev course, you'll use PyGame to build your own playable version of it. You'll code player inventory systems, soil and rain logic, day-night cycles, and even farm animals. Note that this is an intermediate course. If you're new to PyGame, the freeCodeCamp community has several beginner courses as well. (7 hour YouTube course): https://www.freecodecamp.org/news/create-stardew-valley-using-python-and-pygame/
@@ -12,7 +29,6 @@
 As you may know, freeCodeCamp is a public charity. We're able to pay for all 103 of our web servers each month thanks to the support of kind folks like you. If you aren't donating yet, I encourage you to join us and support our mission: https://www.freecodecamp.org/donate
 
 Quote of the Week: “C retains the basic philosophy that programmers know what they are doing. It only requires that they state their intentions explicitly.” — Dennis Ritchie and Brian Kernighan, creators of the C programming language. This quote comes from the same book that Dr. Chuck covers in the course I mentioned above.
-
 
 ### August 12, 2022
 
