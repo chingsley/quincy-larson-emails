@@ -1,4 +1,21 @@
+### November 18, 2022
+
+1. If you want to take your JavaScript and React skills to the next level, this intermediate freeCodeCamp course is for you. Software engineering veteran Jack Herrington will teach you about State Management in React. You'll learn about hooks, reducers, context, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-manage-state-in-react/
+
+2. WordPress is an open source website tool that – as of 2022 – more than 40% of all major websites use. And in this course, freeCodeCamp software engineer Beau Carnes will show you how to code and deploy a WordPress website using Elementor. He'll teach you about hosting, installation, responsive web design, and more. (90 minute YouTube course): https://www.freecodecamp.org/news/easily-create-a-wordpress-blog-or-website/
+
+3. You may have heard about some recent breakthroughs in AI-generated art work. I've been having a blast playing around with DALL-E to create silly images for my kids. And now you can create your own React app that uses the DALL-E API to generate art based on your prompts. This tutorial will walk you through how to code your own pop-up art gallery on your website. (10 minute read): https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/
+
+4. Learn cybersecurity for beginners. This Linux Command Line game will help you capture the flag in no time. For each level of Bandit OverTheWire, you'll get a quick primer in real-world Linux skills. Then you can pause the video and use those skills to beat the level. You can unpause at any time for more explanation, and to keep progressing through the game. This is a fun way to expand your knowledge of networks and security. (2 hour YouTube course): https://www.freecodecamp.org/news/improve-you-cybersecurity-command-line-skills-bandit-overthewire-game-walkthrough/
+
+5. If you are new to software development you are going to hear the word "solid" a lot. And not just to describe hard drives. SOLID is an acronym for a set of software engineering principles. These can help guide you in designing systems. In this quick primer, freeCodeCamp engineer Joel Olawanle will break down each of these concepts. This way, next time you're doing some Object-Oriented Programming, you'll already have a feel for how to best go about it. (20 minute read): https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/
+
+As you may know, freeCodeCamp is a public charity. We've got the same tax-exempt status as The Red Cross, Doctors Without Borders, the YMCA, and other big charities. Except that we operate on a fraction of the budget. More than a million people use freeCodeCamp each day, and yet this is only possible thanks to the 8,273 kind people who donate. Help us in our mission to create math, computer science, and programming resources for everyone. Get involved: https://www.freecodecamp.org/donate
+
+Quote of the Week: “The disorder of the desk, the floor, the yellow Post-it notes everywhere, the whiteboards covered with scrawl. All this is the outward manifestation of the messiness of human thought. The messiness cannot go into the program. It piles up around the programmer.” — Ellen Ullman, Programmer and Author
+
 ### November 11, 2022
+
 1. freeCodeCamp just published a hands-on Microservice Architecture course. This is a great way to learn about Distributed Systems. You can code along at home, and build your own video-to-MP3 file converter app. Along the way, you'll learn some MongoDB, Kubernetes, and MySQL. (5 hour YouTube course): https://www.freecodecamp.org/news/microservices-and-software-system-design-course/
 
 2. TypeScript is like JavaScript, but with static types. For each variable, you specify whether it's a string, integer, boolean, or other data type. If you already know some JavaScript, TypeScript may not take that much time to learn. And it can reduce the number of bugs in your code. freeCodeCamp has converted almost our entire codebase to use TypeScript. It still has all the power of JavaScript, but it's now a bit easier for us to build new features. This beginner course will teach you everything you need to get started coding TypeScript. (5 hour YouTube course): https://www.freecodecamp.org/news/programming-in-typescript/
@@ -19,7 +36,6 @@ Quote of the Week:
 2010s: Ravioli-Oriented Architecture (AKA Microservices)
 What's next? Probably Pizza-Oriented Architecture.”
 — Benoit Hediard, Developer, Software Architect, and CTO of Agorapulse
-
 
 ### November 04, 2022
 
