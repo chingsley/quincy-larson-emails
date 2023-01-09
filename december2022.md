@@ -1,4 +1,21 @@
+### December 19, 2022
+
+1. Programming is a skill that can help you blast your imagination out into the real world. This book – by software engineer and freeCodeCamp teacher Estefania – will give you a strong conceptual foundation in programming. You'll learn about binary, and how computers “think.” (More on this in the Quote of the Week below.) You'll also learn how to communicate with computers through code, so they can do your bidding. This book is an excellent starting point to share with friends and family who want to learn more about technology. (full-length book): https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/
+
+2. Learn JavaScript by coding your own card game. This course is taught by one of freeCodeCamp's most experienced teachers. Gavin has worked as a software engineer for two decades, and it really comes through in his teaching. You can code along at home while you watch this, and build your own responsive web interface for the game. You'll use plain vanilla JavaScript to flip, shuffle, and deal cards from your deck. Once you're finished, you'll have a fun project to show your friends. (2 hour YouTube course): https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/
+
+3. And if you're a bit more experienced with JavaScript, I encourage you to learn the powerful Next.js web development framework. freeCodeCamp uses Next.js in several of our apps. And it's steadily growing in popularity. This course – taught by Alicia Rodriguez – will teach you Next.js fundamentals. You'll learn about server-side rendering, API routing, and data fetching. You'll even deploy your app to the cloud. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-next-js-tutorial/
+
+4. You may have heard about GPT-3, DALL-E, and other powerful uses of artificial intelligence. But what if you want to code your own AI? You'll want to start with something simple. In this tutorial, you'll learn about the Minimax algorithm, and how you can use it to create an game AI that always wins or ties at tic-tac-toe. (15 minute read): https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/
+
+5. Did you know you can use your command line as a calculator? If you open your terminal in Mac or Linux (or in Windows Subsystem for Linux) you can type equations, and then your computer will solve them for you – usually in just a few milliseconds. This is handy if you are fast at typing and don't want to use a spreadsheet or click around in a calculator. This tutorial will show you some of the key syntax and features for crunching numbers right in the command prompt. (12 minute read): https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/
+
+Some of you have asked me how our charity is able to publish all these free learning resources each week. The main way we're able to accomplish this is thanks to the 8,413 kind people who donate. If you're getting value out of the freeCodeCamp community, I encourage you to join these kind people and start supporting our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: “The question of whether computers can think is like the question of whether submarines can swim.” — Edsger Dijkstra, Mathematician and Computer Scientist
+
 ### December 09, 2022
+
 1. This freeCodeCamp course will teach you how to code your own Python apps that run directly on Windows, Mac, or Linux – not just in a browser. You'll learn powerful Python libraries like Qt and PySide6. This way you can build apps that run natively on computers, and leverage their full processing power. (5 hour YouTube course): https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/
 
 2. Swift is a powerful programming language developed by Apple. A lot of developers who build apps for either iOS and MacOS prefer to code in Swift. In this in-depth course, a lead iOS developer will teach you Swift development fundamentals. You'll learn about variables, operators, error handling, and even asynchronous programming. (7 hour YouTube course): https://www.freecodecamp.org/news/learn-the-swift-programming-language/
@@ -12,7 +29,6 @@
 Even if you haven't had time to get involved in the freeCodeCamp community as a volunteer, you can still join the 8,413 kind people who directly support our charity's mission each month. If you have the means, we will put your donations to good use creating even more learning resources: https://www.freecodecamp.org/donate
 
 Quote of the Week: “A most important, but also most elusive, aspect of any tool is its influence on the habits of those who train themselves in its use. If the tool is a programming language, this influence is – whether we like it or not – an influence on our thinking habits.” — Edsger Dijkstra, Mathematician and Computer Scientist
-
 
 ### December 02, 2022
 
