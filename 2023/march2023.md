@@ -1,3 +1,23 @@
+### March 25, 2023
+
+1. Legendary programming teacher and frequent freeCodeCamp contributor Tim Ruscica will teach you how to code your own Mario-style platformer game in Python. You can code along at home and learn how to implement pixel-perfect collision detection, fully-animated character sprites, jump physics, and even double jump physics. (Don't try this last one in real life.) This course will also teach you some PyGame basics, and how to incorporate adorable pixel art assets. (2 hour YouTube course): https://www.freecodecamp.org/news/create-a-platformer-game-with-python/
+
+2. Django is a popular web development framework for Python. And in this course, you'll learn how to use Django by coding your own Customer Relationship Management (CRM) system. Software Engineer John Elder will walk you through building this web app step-by-step. You'll also learn some Git, MySQL, and the Bootstrap CSS library. CRM tools can help with your client work, job searches, and everyday tasks like keeping track of friends' birthdays. By the end of this course, you'll have built your own tool that you can use long-term. (2 hour YouTube course): https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/
+
+3. Linux is an incredibly powerful automation tool. And this tutorial will show you how to harness that power through the magical art of shell scripting. Zaira Hira is a developer at freeCodeCamp and a Linux superfan. She'll teach you Bash commands, data types, conditional logic, loops, cron jobs, and more. And yes, you can try all this without installing Linux on your computer. (30 minute read): https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
+
+4. Please Excuse My Dear Aunt Sally. That's the sentence kids memorize in the US, so that they can remember the mathematical Order of Operations: Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction. And JavaScript has something similar: Operator Precedence. This in-depth tutorial by Franklin Okolie will teach you about these JavaScript operators and more. Enjoy greatest hits like Modulus, Increment, and Decrement. If you take the time to learn these, you'll save yourself a ton of headache down the road when you're debugging your code. (25 minute read): https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/
+
+5. If you want to get into Data Analytics, I have good news. Jeremiah Oluseye is a data scientist, and he created this roadmap to guide you in your journey. You'll learn which tools to focus your time on, which math you should brush up on, and how to build your network in the data community. (25 minute read): https://www.freecodecamp.org/news/data-analytics-roadmap/
+
+A big thanks to all 8,289 of you all who are now supporting freeCodeCamp. If you aren't yet donating to our charity, I encourage you to get involved. You can join us in our mission to create open learning resources for everyone, everywhere on Earth: https://www.freecodecamp.org/donate
+
+Quote of the Week: “I think that in life, as in game design, you have to find the fun. There is joy out there waiting to be discovered, but it might not be where you expected.
+
+You can’t decide what something’s going to be before you embark on it, and you shouldn’t stick with a bad idea just because you’re fond of it. Take action as quickly and repeatedly as possible. Take advantage of what you already know. And take liberties with tradition.
+
+But most importantly, take the time to appreciate the possibilities, and make sure all of your decisions are interesting ones.” — Sid Meier, game developer and creator of the Civilization game series
+
 ### March 18, 2023
 
 1. React is a powerful JavaScript library for coding web apps and mobile apps. This course will teach you the newest version of React – React 18 – along with the popular Redux Toolkit. This freeCodeCamp course is taught by legendary programming teacher John Smilga. You can code along at home as he teaches you all about Events, Props, Hooks, Data Flow, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/
