@@ -1,3 +1,24 @@
+### April 8, 2023
+1. freeCodeCamp just published a new Front End Development course. You can code along at home and build your own game in raw HTML, CSS, and JavaScript. Then you'll learn how to refactor your game to make use of the Model-View-Controller design pattern. You'll then add TypeScript to improve the reliability of your code, and React to make your game more dynamic. This is an excellent project-oriented course for beginners. (10 hour YouTube course): https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/
+
+2. And if you want even more web development practice, here's another beginner's course. It will teach you how to build a personal website using a lot of contemporary tools, including Next.js, Tailwind CSS, TypeScript, and Sanity. Kapehe has taught a lot of courses with freeCodeCamp, and I think you'll dig her friendly teaching style. (2 hour YouTube course): https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript/
+
+3. You may have heard the terms “Symmetric Encryption” and “Asymmetric Encryption”. But what do they mean? This primer will teach you about these concepts, and how they power both the SSL protocol and its successor, TLS. Encryption makes the World Wide Web go ‘round. (15 minute read): https://www.freecodecamp.org/news/encryption-explained-in-plain-english/
+
+4. And on the topic of encryption, it turns out that even something as basic as storing something safely on your computer requires quite a bit of applied mathematics. This tutorial on “encryption at rest” will walk you through some of the cryptography techniques developers use – including hashing and salting. Just thinking about those makes me hungry for some hash browns. (8 minute read): https://www.freecodecamp.org/news/encryption-at-rest/
+
+5. My friend Dhawal created this comprehensive list of 850 university courses that are freely available, which you can convert into college credit. There are a ton of different subjects to choose from, including Computer Science, Data Science, Math, and Information Security. (fully browsable list): https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/
+
+A quick note on GPT-4 and other Large Language Model (LLM) tools: I'm spending several hours each week practicing with these tools, and learning how to use them more effectively.
+
+I still do all my writing the old fashion way. But I'm finding LLMs to be helpful in a lot of other ways, including simplifying my code.
+
+Over the years, freeCodeCamp has published several courses on Neural Networks, Deep Learning, Linear Algebra, and other key concepts that power these new AI tools. And we're hard at work developing many more. We'll release these throughout the coming months, so stay tuned.
+
+With all the courses freeCodeCamp publishes each week, you might be surprised to learn that we're just a tiny charity with a tiny staff of teachers. Thankfully, we have thousands of volunteers around the world. And we have thousands of people who donate each month to help us pay for servers. I encourage you to join these kind people and start supporting our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: “The more I study, the more insatiable do I feel my genius to be.” — Ada Lovelace, mathematician and the world's first computer programmer
+
 ### April 1, 2023
 
 1. The most dreaded part of the developer job search is the “coding interview”. This is where a software engineer asks you to solve programming challenges right there on the spot – often by writing code on a whiteboard.
