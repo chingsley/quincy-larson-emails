@@ -1,11 +1,5 @@
 ### September 09, 2023
 
-Quincy Larson <quincy@freecodecamp.org>
-Sat, Sep 9, 2023, 4:18 AM
-to me
-
-Here are this week's five freeCodeCamp resources that are worth your time:
-
 1. The first time I used ChatGPT, I was impressed. But I didn't yet realize how useful it would become in my day-to-day work as a developer. Only after I learned some Prompt Engineering techniques did I get good at communicating with the AI. Now I'm much more effective at getting Large Language Models to do tasks for me. That's why I'm excited to share this new freeCodeCamp course on Prompt Engineering. Ania Kubów will teach you techniques like Few-Shot Prompting, Vectors, Embeddings, and how to reduce AI hallucinations. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
 
 2. If you're brand new to HTML and CSS, this is the book for you. You'll learn about HTML, the skeleton of a webpage. You'll learn about CSS, the skin of a webpage. You'll even learn a little about JavaScript, the muscles of a webpage. Sprinkle in some DevTools and HTTP requests. Now you've got a proper web dev primer. Enjoy the book, and bookmark it for future reference as well. (full-length handbook): https://www.freecodecamp.org/news/html-css-handbook-for-beginners/
